@@ -1,4 +1,4 @@
-package Level2;
+package Level2_Aggregations_Math;
 
 import java.util.Arrays;
 import java.util.List;
